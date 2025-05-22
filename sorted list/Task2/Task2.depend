@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1679160773 source:d:\cse225lab\lab5\task2\main.cpp
+	"timeStamp.h"
+	"sortedtype.h"
+	<iostream>
+
+1680029539 d:\cse225lab\lab5\task2\timestamp.h
+
+1680029536 source:d:\cse225lab\lab5\task2\timestamp.cpp
+	<iostream>
+	"timeStamp.h"
+
+1680029535 source:d:\cse225lab\lab5\task2\unsortedtype.cpp
+	"UnsortedType.h"
+
+1680029537 d:\cse225lab\lab5\task2\unsortedtype.h
+
+1679160769 d:\cse225lab\lab5\task2\sortedtype.h
+
+1679160770 source:d:\cse225lab\lab5\task2\sortedtype.cpp
+	"sortedtype.h"
+

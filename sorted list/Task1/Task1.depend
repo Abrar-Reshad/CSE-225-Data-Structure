@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1680027938 source:d:\cse225lab\lab5\task1\sortedtype.cpp
+	"sortedtype.h"
+
+1680027727 d:\cse225lab\lab5\task1\sortedtype.h
+
+1680028861 source:d:\cse225lab\lab5\task1\main.cpp
+	<iostream>
+	"sortedtype.h"
+	"sortedtype.cpp"
+
+1680027938 d:\cse225lab\lab5\task1\sortedtype.cpp
+	"sortedtype.h"
+
